@@ -1,2 +1,2 @@
-# esp32-spirit1
+# ESP32 SPIRIT1
 SPIRIT1 Library ported to ESP32
